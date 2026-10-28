@@ -3,7 +3,9 @@
 Projeto de Banco de Dados - MySQL
 
 Aluna: Paola Cristine Silva Bastos
+
 Curso: Desenvolvimento de Sistemas
+
 Data: 28/Outubro/2026
 
 ## 📋 Descrição
